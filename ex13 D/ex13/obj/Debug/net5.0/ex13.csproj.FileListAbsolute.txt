@@ -1,0 +1,32 @@
+D:\Alex\Facultate\map\exercitii-examen\ex13\ex13\bin\Debug\net5.0\ex13.exe
+D:\Alex\Facultate\map\exercitii-examen\ex13\ex13\bin\Debug\net5.0\ex13.deps.json
+D:\Alex\Facultate\map\exercitii-examen\ex13\ex13\bin\Debug\net5.0\ex13.runtimeconfig.json
+D:\Alex\Facultate\map\exercitii-examen\ex13\ex13\bin\Debug\net5.0\ex13.runtimeconfig.dev.json
+D:\Alex\Facultate\map\exercitii-examen\ex13\ex13\bin\Debug\net5.0\ex13.dll
+D:\Alex\Facultate\map\exercitii-examen\ex13\ex13\bin\Debug\net5.0\ref\ex13.dll
+D:\Alex\Facultate\map\exercitii-examen\ex13\ex13\bin\Debug\net5.0\ex13.pdb
+D:\Alex\Facultate\map\exercitii-examen\ex13\ex13\obj\Debug\net5.0\ex13.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alex\Facultate\map\exercitii-examen\ex13\ex13\obj\Debug\net5.0\ex13.AssemblyInfoInputs.cache
+D:\Alex\Facultate\map\exercitii-examen\ex13\ex13\obj\Debug\net5.0\ex13.AssemblyInfo.cs
+D:\Alex\Facultate\map\exercitii-examen\ex13\ex13\obj\Debug\net5.0\ex13.csproj.CoreCompileInputs.cache
+D:\Alex\Facultate\map\exercitii-examen\ex13\ex13\obj\Debug\net5.0\ex13.dll
+D:\Alex\Facultate\map\exercitii-examen\ex13\ex13\obj\Debug\net5.0\ref\ex13.dll
+D:\Alex\Facultate\map\exercitii-examen\ex13\ex13\obj\Debug\net5.0\ex13.pdb
+D:\Alex\Facultate\map\exercitii-examen\ex13\ex13\obj\Debug\net5.0\ex13.genruntimeconfig.cache
+D:\Alex\Facultate\map\exercitii-examen\ex13\ex13\obj\Debug\net5.0\ex13.csproj.AssemblyReference.cache
+D:\Faculta Stuff\Anul II\Semestrul I\exercitii-examen\ex13 D\ex13\bin\Debug\net5.0\ex13.exe
+D:\Faculta Stuff\Anul II\Semestrul I\exercitii-examen\ex13 D\ex13\bin\Debug\net5.0\ex13.deps.json
+D:\Faculta Stuff\Anul II\Semestrul I\exercitii-examen\ex13 D\ex13\bin\Debug\net5.0\ex13.runtimeconfig.json
+D:\Faculta Stuff\Anul II\Semestrul I\exercitii-examen\ex13 D\ex13\bin\Debug\net5.0\ex13.runtimeconfig.dev.json
+D:\Faculta Stuff\Anul II\Semestrul I\exercitii-examen\ex13 D\ex13\bin\Debug\net5.0\ex13.dll
+D:\Faculta Stuff\Anul II\Semestrul I\exercitii-examen\ex13 D\ex13\bin\Debug\net5.0\ref\ex13.dll
+D:\Faculta Stuff\Anul II\Semestrul I\exercitii-examen\ex13 D\ex13\bin\Debug\net5.0\ex13.pdb
+D:\Faculta Stuff\Anul II\Semestrul I\exercitii-examen\ex13 D\ex13\obj\Debug\net5.0\ex13.csproj.AssemblyReference.cache
+D:\Faculta Stuff\Anul II\Semestrul I\exercitii-examen\ex13 D\ex13\obj\Debug\net5.0\ex13.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faculta Stuff\Anul II\Semestrul I\exercitii-examen\ex13 D\ex13\obj\Debug\net5.0\ex13.AssemblyInfoInputs.cache
+D:\Faculta Stuff\Anul II\Semestrul I\exercitii-examen\ex13 D\ex13\obj\Debug\net5.0\ex13.AssemblyInfo.cs
+D:\Faculta Stuff\Anul II\Semestrul I\exercitii-examen\ex13 D\ex13\obj\Debug\net5.0\ex13.csproj.CoreCompileInputs.cache
+D:\Faculta Stuff\Anul II\Semestrul I\exercitii-examen\ex13 D\ex13\obj\Debug\net5.0\ex13.dll
+D:\Faculta Stuff\Anul II\Semestrul I\exercitii-examen\ex13 D\ex13\obj\Debug\net5.0\ref\ex13.dll
+D:\Faculta Stuff\Anul II\Semestrul I\exercitii-examen\ex13 D\ex13\obj\Debug\net5.0\ex13.pdb
+D:\Faculta Stuff\Anul II\Semestrul I\exercitii-examen\ex13 D\ex13\obj\Debug\net5.0\ex13.genruntimeconfig.cache
